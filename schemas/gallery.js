@@ -16,10 +16,10 @@ export default {
               hotspot: true,
             },
         },
-        {
-            name: 'description',
-            title: 'Description',
-            type: 'text'
-        },
+        // {
+        //     name: 'description',
+        //     title: 'Description',
+        //     type: 'text'
+        // },
     ]
 }
