@@ -1,6 +1,6 @@
 export default {
-    name: 'events',
-    title: 'Events',
+    name: 'events_iedc',
+    title: 'IEDC Events',
     type: 'document',
     fields: [
         {
