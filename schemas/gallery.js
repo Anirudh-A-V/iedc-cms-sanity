@@ -1,6 +1,6 @@
 export default {
-    name: 'gallery',
-    title: 'Gallery',
+    name: 'gallery_iedc',
+    title: 'IEDC Gallery',
     type: 'document',
     fields: [
         {
@@ -15,6 +15,11 @@ export default {
             options: {
               hotspot: true,
             },
-        }
+        },
+        {
+            name: 'description',
+            title: 'Description',
+            type: 'text'
+        },
     ]
 }

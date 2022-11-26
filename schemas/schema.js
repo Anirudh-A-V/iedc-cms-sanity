@@ -18,8 +18,8 @@ export default createSchema({
   types: schemaTypes.concat([
     /* Your types here! */
     events,
-    // gallery,
-    // achievements,
+    gallery,
+    achievements,
     ignites_events
   ]),
 })

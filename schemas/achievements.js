@@ -1,6 +1,6 @@
 export default {
-    name: 'achievements',
-    title: 'Achievements',
+    name: 'achievements_iedc',
+    title: 'IEDC Achievements',
     type: 'document',
     fields: [
         {
