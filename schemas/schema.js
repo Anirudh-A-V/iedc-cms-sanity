@@ -8,6 +8,7 @@ import events from './events'
 import gallery from './gallery'
 import achievements from './achievements'
 import ignites_events from './ignites_events'
+import enovus_events from './enovus_events'
 
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
@@ -20,6 +21,7 @@ export default createSchema({
     events,
     gallery,
     achievements,
-    ignites_events
+    ignites_events,
+    enovus_events
   ]),
 })
